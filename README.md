@@ -10,7 +10,8 @@ The dataset [Adult Data Set](http://archive.ics.uci.edu/ml/datasets/Adult)<br/>
 
 Usage
 =========
-After start the Jubaclassifier
-      $ python ML_Prediction.py
+After start the Jubaclassifier<br/>
+
+     $ python ML_Prediction.py
       
 
